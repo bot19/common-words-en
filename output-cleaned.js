@@ -1,3 +1,4 @@
+// re-run this often as words allowed/disallowed changes
 [
   null,
   {

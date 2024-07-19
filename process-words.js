@@ -14,7 +14,7 @@ const wordsByLength = [];
 const wordsBlacklist = [];
 
 // array of banned words (children friendly!)
-const wordsBanned = ["bah", "whore"];
+const wordsBanned = ["bah", "masturbate", "whore"];
 
 // array of whitelisted words with "-"
 const wordsWhitelist = [
