@@ -4,18 +4,22 @@ Preparing an English word list suitable for my upcoming Engish learning game [Wo
 
 ## 🏁 Features/objectives
 
-1. words are from the 5000 most common English words
-2. filter out words below 3 letters as easy mode starts at 3 letter words
-3. separate words into groups by lengths, 3~15 letters
+1. words are from the 5000 most common English words (US)
+2. separate word lists by length & alphabetical order
+3. clean word lists of duplicates and inappropriate words (children friendly)
+4. each list to include basic information, like list length/count
 
 ## 🖥️ Tech
 
-1. Coming soon...
+1. good ol' javascript/node
 
 ## 🚀 How to run
 
-1. Coming soon...
+1. not much to run, as output will be included
+2. either copy-paste into browser console or execute via node in terminal
 
 ## 📝 Notes
 
-Coming soon...
+- easy mode includes word lengths 3, 4, 5 ~ 1900 words total
+- medium mode includes word lengths 6, 7, 8 ~ 1900 words total
+- hard mode includes word lengths 9, 10, 11 ~ 560 words total
