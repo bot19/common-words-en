@@ -20,6 +20,14 @@ Preparing an English word list suitable for my upcoming Engish learning game [Wo
 
 ## 📝 Notes
 
-- easy mode includes word lengths 3, 4, 5 ~ 1900 words total
-- medium mode includes word lengths 6, 7, 8 ~ 1900 words total
-- hard mode includes word lengths 9, 10, 11 ~ 560 words total
+- base common words "seeds" list is from: frequencylist.com
+- updated "seeds" list with wordlist.aspell.net/12dicts/ US-UK 4700 words list
+- word length 3 words: 307 > 323
+- word length 4 words: 772 > 846
+- word length 5 words: 824 > 949
+- word length 6 words: 791 > 983
+- word length 7 words: 669 > 896
+- word length 8 words: 444 > 665
+- word length 9 words: 287 > 475
+- word length 10 words: 186 > 338
+- word length 11 words: 96 > 187
