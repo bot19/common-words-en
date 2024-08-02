@@ -2,12 +2,15 @@
 
 Preparing an English word list suitable for my upcoming Engish learning game [Wordlecate](https://wordlecate.netlify.app/). Need the 5,000-10,000 most common English words in the appropriate data format.
 
+Now also includes an extra "dictionary" list, which encompasses the common words list and many more words that users might input to guess the common words. This is to do client-side word validation vs using a dictionary API.
+
 ## 🏁 Features/objectives
 
 1. words are from the 5,000-10,000 most common English words (US, UK)
 2. separate word lists by length & alphabetical order
 3. clean word lists of duplicates and inappropriate words (children friendly)
 4. each list to include basic information, like list length/count
+5. has 58,000 dictionary word list for client-side word validation
 
 ## 🖥️ Tech
 
