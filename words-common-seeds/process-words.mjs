@@ -79,17 +79,40 @@ wordsByLength.forEach((wordsObject) => {
 // console.log("wordsByLength", wordsByLength);
 
 // Convert to JSON with pretty print
-const jsonString = JSON.stringify(wordsByLength, null, 2);
+const wordsList = JSON.stringify(wordsByLength, null, 2);
+const blackList = JSON.stringify(wordsBlacklist, null, 2);
 
 // writing to a file
-async function writeFileOutput() {
+async function writeFileOutputWords() {
   try {
-    await writeFile("output.json", jsonString);
+    await writeFile("output-words.json", wordsList);
+    console.log("File has been saved.");
+  } catch (err) {
+    console.error("Error writing to the file:", err);
+  }
+}
+async function writeFileOutputBanned() {
+  try {
+    await writeFile("output-blacklist.json", blackList);
     console.log("File has been saved.");
   } catch (err) {
     console.error("Error writing to the file:", err);
   }
 }
 
-// RUN in DIR: node process-words.mjs
-writeFileOutput();
+// RUN below in DIR, it will be in output.json (above)
+// node process-words.mjs
+writeFileOutputWords();
+writeFileOutputBanned();
+
+/**
+ * then copy the output in the .json file & paste in chrome devTools
+ *
+ * var output = JSON.stringify(<paste>)
+ * console.log(JSON.parse(output))
+ *
+ * copy the output in devTools into the file below:
+ * make a new file /output/output-cleaned-vX.js
+ *
+ * on save, it'll re-format to a valid js data object
+ */
