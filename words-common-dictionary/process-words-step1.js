@@ -17,15 +17,7 @@ const wordsByLength = [];
 const wordsBlacklist = [];
 
 // array of banned words - silly words/children friendly!
-const wordsBanned = [
-  "aah",
-  "ahh",
-  "bah",
-  "hehe",
-  "masturbate",
-  "whore",
-  "whoring",
-];
+const wordsBanned = ["aah", "bah", "nigger", "niggers"];
 
 // populate word objects by length
 wordsArr.forEach((word) => {
