@@ -4366,7 +4366,7 @@
   },
   {
     "wordLength": 8,
-    "count": 799,
+    "count": 797,
     "words": [
       "abortion",
       "absolute",
@@ -4453,7 +4453,6 @@
       "calendar",
       "campaign",
       "canadian",
-      "canmodal",
       "capacity",
       "careless",
       "carnival",
@@ -4808,7 +4807,6 @@
       "material",
       "mattress",
       "maximize",
-      "maymodal",
       "meantime",
       "meatball",
       "mechanic",
@@ -5171,7 +5169,7 @@
   },
   {
     "wordLength": 9,
-    "count": 615,
+    "count": 612,
     "words": [
       "abandoned",
       "abundance",
@@ -5537,12 +5535,10 @@
       "motorbike",
       "moustache",
       "municipal",
-      "mustmodal",
       "narrative",
       "naturally",
       "necessary",
       "necessity",
-      "needmodal",
       "negotiate",
       "neighbour",
       "nervously",
@@ -5780,7 +5776,6 @@
       "waterfall",
       "wednesday",
       "whichever",
-      "willmodal",
       "wonderful",
       "workforce",
       "workplace",
@@ -5792,7 +5787,7 @@
   },
   {
     "wordLength": 10,
-    "count": 468,
+    "count": 463,
     "words": [
       "absolutely",
       "accelerate",
@@ -5911,7 +5906,6 @@
       "correction",
       "correspond",
       "corruption",
-      "couldmodal",
       "councillor",
       "counsellor",
       "courthouse",
@@ -6071,7 +6065,6 @@
       "meditation",
       "membership",
       "microphone",
-      "mightmodal",
       "millennium",
       "millimeter",
       "millimetre",
@@ -6094,7 +6087,6 @@
       "opposition",
       "optimistic",
       "originally",
-      "oughtmodal",
       "outrageous",
       "parliament",
       "particular",
@@ -6179,7 +6171,6 @@
       "separately",
       "separation",
       "settlement",
-      "shallmodal",
       "shenanigan",
       "shopkeeper",
       "short-term",
@@ -6260,13 +6251,12 @@
       "wilderness",
       "windshield",
       "withdrawal",
-      "worthwhile",
-      "wouldmodal"
+      "worthwhile"
     ]
   },
   {
     "wordLength": 11,
-    "count": 270,
+    "count": 266,
     "words": [
       "accommodate",
       "accordingly",
@@ -6292,7 +6282,6 @@
       "bureaucracy",
       "businessman",
       "calculation",
-      "cannotmodal",
       "celebration",
       "certificate",
       "challenging",
@@ -6394,7 +6383,6 @@
       "grandparent",
       "hairdresser",
       "handwriting",
-      "havetomodal",
       "housekeeper",
       "ideological",
       "imagination",
@@ -6503,7 +6491,6 @@
       "self-esteem",
       "sensitivity",
       "shareholder",
-      "shouldmodal",
       "significant",
       "sovereignty",
       "specialized",
@@ -6536,7 +6523,6 @@
       "unfortunate",
       "unimportant",
       "unnecessary",
-      "usedtomodal",
       "willingness"
     ]
   },
