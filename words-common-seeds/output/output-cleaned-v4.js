@@ -1,4 +1,4 @@
-const wordsCommonSeedsVX = [
+const wordsCommonSeedsV4 = [
   null,
   {
     wordLength: 1,

@@ -71,6 +71,7 @@ wordsByLength.forEach((wordsObject) => {
   wordsObject.count = wordsObject.words.length;
 });
 
+// wordsBlacklist [] also available
 console.log("wordsByLength", wordsByLength);
 
 // at bottom cuz long & js can do hoisting
