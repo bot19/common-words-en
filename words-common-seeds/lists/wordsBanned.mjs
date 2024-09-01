@@ -48,4 +48,5 @@ export const wordsBanned = [
   "whore",
   "whoring",
   "yay",
+  "margarita",
 ];

@@ -1,17 +1,14 @@
-[
+const wordsCommonSeedsVX = [
   null,
   {
-    "wordLength": 1,
-    "count": 2,
-    "words": [
-      "a",
-      "i"
-    ]
+    wordLength: 1,
+    count: 2,
+    words: ["a", "i"],
   },
   {
-    "wordLength": 2,
-    "count": 48,
-    "words": [
+    wordLength: 2,
+    count: 48,
+    words: [
       "ad",
       "ah",
       "an",
@@ -59,13 +56,13 @@
       "up",
       "us",
       "we",
-      "yo"
-    ]
+      "yo",
+    ],
   },
   {
-    "wordLength": 3,
-    "count": 311,
-    "words": [
+    wordLength: 3,
+    count: 311,
+    words: [
       "act",
       "add",
       "age",
@@ -376,13 +373,13 @@
       "you",
       "yum",
       "zip",
-      "zoo"
-    ]
+      "zoo",
+    ],
   },
   {
-    "wordLength": 4,
-    "count": 859,
-    "words": [
+    wordLength: 4,
+    count: 859,
+    words: [
       "able",
       "ache",
       "acid",
@@ -1241,13 +1238,13 @@
       "yuck",
       "zero",
       "zone",
-      "zoom"
-    ]
+      "zoom",
+    ],
   },
   {
-    "wordLength": 5,
-    "count": 1005,
-    "words": [
+    wordLength: 5,
+    count: 1005,
+    words: [
       "abort",
       "about",
       "above",
@@ -2252,13 +2249,13 @@
       "young",
       "yours",
       "youth",
-      "yummy"
-    ]
+      "yummy",
+    ],
   },
   {
-    "wordLength": 6,
-    "count": 1081,
-    "words": [
+    wordLength: 6,
+    count: 1081,
+    words: [
       "aboard",
       "abroad",
       "absent",
@@ -3339,13 +3336,13 @@
       "yankee",
       "yellow",
       "yogurt",
-      "zombie"
-    ]
+      "zombie",
+    ],
   },
   {
-    "wordLength": 7,
-    "count": 1016,
-    "words": [
+    wordLength: 7,
+    count: 1016,
+    words: [
       "abandon",
       "ability",
       "abolish",
@@ -4361,13 +4358,13 @@
       "wrestle",
       "writing",
       "written",
-      "wrongly"
-    ]
+      "wrongly",
+    ],
   },
   {
-    "wordLength": 8,
-    "count": 799,
-    "words": [
+    wordLength: 8,
+    count: 799,
+    words: [
       "abortion",
       "absolute",
       "abstract",
@@ -5166,13 +5163,13 @@
       "workshop",
       "worrying",
       "wrestler",
-      "yourself"
-    ]
+      "yourself",
+    ],
   },
   {
-    "wordLength": 9,
-    "count": 615,
-    "words": [
+    wordLength: 9,
+    count: 615,
+    words: [
       "abandoned",
       "abundance",
       "accompany",
@@ -5787,13 +5784,13 @@
       "worldwide",
       "worthless",
       "yesterday",
-      "youngster"
-    ]
+      "youngster",
+    ],
   },
   {
-    "wordLength": 10,
-    "count": 468,
-    "words": [
+    wordLength: 10,
+    count: 468,
+    words: [
       "absolutely",
       "accelerate",
       "acceptable",
@@ -6261,13 +6258,13 @@
       "windshield",
       "withdrawal",
       "worthwhile",
-      "wouldmodal"
-    ]
+      "wouldmodal",
+    ],
   },
   {
-    "wordLength": 11,
-    "count": 270,
-    "words": [
+    wordLength: 11,
+    count: 270,
+    words: [
       "accommodate",
       "accordingly",
       "accordingto",
@@ -6537,13 +6534,13 @@
       "unimportant",
       "unnecessary",
       "usedtomodal",
-      "willingness"
-    ]
+      "willingness",
+    ],
   },
   {
-    "wordLength": 12,
-    "count": 131,
-    "words": [
+    wordLength: 12,
+    count: 131,
+    words: [
       "accidentally",
       "accumulation",
       "acquaintance",
@@ -6674,13 +6671,13 @@
       "uncontrolled",
       "unemployment",
       "unreasonable",
-      "unsuccessful"
-    ]
+      "unsuccessful",
+    ],
   },
   {
-    "wordLength": 13,
-    "count": 79,
-    "words": [
+    wordLength: 13,
+    count: 79,
+    words: [
       "accommodation",
       "administrator",
       "advertisement",
@@ -6759,13 +6756,13 @@
       "unfortunately",
       "unprecedented",
       "unpredictable",
-      "vulnerability"
-    ]
+      "vulnerability",
+    ],
   },
   {
-    "wordLength": 14,
-    "count": 26,
-    "words": [
+    wordLength: 14,
+    count: 26,
+    words: [
       "accommodations",
       "accomplishment",
       "accountability",
@@ -6791,41 +6788,34 @@
       "responsibility",
       "simultaneously",
       "transformation",
-      "transportation"
-    ]
+      "transportation",
+    ],
   },
   {
-    "wordLength": 15,
-    "count": 5,
-    "words": [
+    wordLength: 15,
+    count: 5,
+    words: [
       "congratulations",
       "decision-making",
       "environmentally",
       "extraordinarily",
-      "straightforward"
-    ]
+      "straightforward",
+    ],
   },
   {
-    "wordLength": 16,
-    "count": 2,
-    "words": [
-      "african-american",
-      "misunderstanding"
-    ]
+    wordLength: 16,
+    count: 2,
+    words: ["african-american", "misunderstanding"],
   },
   {
-    "wordLength": 17,
-    "count": 1,
-    "words": [
-      "thought-provoking"
-    ]
+    wordLength: 17,
+    count: 1,
+    words: ["thought-provoking"],
   },
   {
-    "wordLength": 18,
-    "count": 1,
-    "words": [
-      "telecommunications"
-    ]
+    wordLength: 18,
+    count: 1,
+    words: ["telecommunications"],
   },
   null,
   null,
@@ -6833,8 +6823,194 @@
   null,
   null,
   {
-    "wordLength": 24,
-    "count": 0,
-    "words": []
-  }
-]
+    wordLength: 24,
+    count: 0,
+    words: [],
+  },
+];
+
+// from both lists, FYI
+const wordsBlacklist = [
+  "aha",
+  "ahh",
+  "ass",
+  "aye",
+  "bah",
+  "bam",
+  "duh",
+  "gee",
+  "hah",
+  "hmm",
+  "mm:",
+  "oho",
+  "shh",
+  "tit",
+  "ugh",
+  "uhh",
+  "wah",
+  "woo",
+  "yay",
+  "a.m.",
+  "ahem",
+  "ahoy",
+  "argh",
+  "blah",
+  "boob",
+  "brat",
+  "dawg",
+  "etc.",
+  "fuck",
+  "hehe",
+  "hiya",
+  "hobo",
+  "jeez",
+  "nazi",
+  "orgy",
+  "p.m.",
+  "piss",
+  "psst",
+  "shit",
+  "shoo",
+  "slut",
+  "thee",
+  "whee",
+  "9-1-1",
+  "ha-ha",
+  "moron",
+  "penis",
+  "ta-da",
+  "uh-oh",
+  "uh-uh",
+  "whore",
+  "a.k.a.",
+  "condom",
+  "fed up",
+  "jell-o",
+  "mm-hmm",
+  "nipple",
+  "no one",
+  "no-one",
+  "shitty",
+  "uh-huh",
+  "vagina",
+  "bye-bye",
+  "fucking",
+  "hot dog",
+  "used to",
+  "american",
+  "bullshit",
+  "per cent",
+  "web page",
+  "web site",
+  "whoo-hoo",
+  "air force",
+  "all right",
+  "cd player",
+  "chat show",
+  "fast food",
+  "forty-two",
+  "full stop",
+  "ice cream",
+  "last name",
+  "left-hand",
+  "margarita",
+  "talk show",
+  "thank you",
+  "cell phone",
+  "each other",
+  "first name",
+  "forty-five",
+  "gold medal",
+  "inside out",
+  "masturbate",
+  "north-east",
+  "soft drink",
+  "south-east",
+  "south-west",
+  "strip-club",
+  "task force",
+  "thirty-one",
+  "thirty-six",
+  "thirty-two",
+  "twenty-one",
+  "twenty-six",
+  "twenty-two",
+  "video game",
+  "well known",
+  "alarm clock",
+  "coffee shop",
+  "credit card",
+  "dining room",
+  "forty-eight",
+  "gas station",
+  "high school",
+  "living room",
+  "martial art",
+  "nine thirty",
+  "ninety-five",
+  "ninety-nine",
+  "one another",
+  "one hundred",
+  "parking lot",
+  "post office",
+  "seventy-two",
+  "six hundred",
+  "thirty-five",
+  "thirty-four",
+  "twenty-five",
+  "twenty-four",
+  "twenty-nine",
+  "two hundred",
+  "upside down",
+  "according to",
+  "common sense",
+  "fire brigade",
+  "five hundred",
+  "four hundred",
+  "good evening",
+  "good morning",
+  "heart attack",
+  "human rights",
+  "middle class",
+  "mobile phone",
+  "motherfucker",
+  "nine hundred",
+  "one thousand",
+  "seventy-five",
+  "sitting room",
+  "stock market",
+  "thirty-eight",
+  "thirty-seven",
+  "twenty-eight",
+  "twenty-seven",
+  "twenty-three",
+  "two thousand",
+  "eight hundred",
+  "exchange rate",
+  "mother tongue",
+  "movie theater",
+  "point of view",
+  "question mark",
+  "seven hundred",
+  "swimming pool",
+  "three hundred",
+  "bulletin board",
+  "carbon dioxide",
+  "global warming",
+  "good afternoon",
+  "native speaker",
+  "police officer",
+  "police station",
+  "prime minister",
+  "remote control",
+  "stock exchange",
+  "washing machine",
+  "air conditioning",
+  "department store",
+  "public transport",
+  "weather forecast",
+  "elementary school",
+  "one hundred fifty",
+  "apartment building",
+  "one thousand one hundred",
+];

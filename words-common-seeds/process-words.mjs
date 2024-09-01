@@ -2,10 +2,12 @@ import { wordsFrequncyList } from "./imports/wordsFrequncyList.mjs";
 import { wordsAlanBeale } from "./imports/wordsAlanBeale.mjs";
 import { wordsBanned } from "./lists/wordsBanned.mjs";
 import { wordsWhitelist } from "./lists/wordsWhitelist.mjs";
-import { readFile, writeFile, appendFile, unlink } from "fs/promises";
+import { writeFile } from "fs/promises";
+import { wordsEssentialEnglish } from "./imports/wordsEssentialEnglish.mjs";
 
 // combine word lists
-const wordsString = wordsFrequncyList + "," + wordsAlanBeale;
+const wordsString =
+  wordsFrequncyList + "," + wordsAlanBeale + "," + wordsEssentialEnglish;
 
 // make into array to sort
 const wordsArr = wordsString.split(",");
