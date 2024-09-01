@@ -1,3 +1,5 @@
+// another round of cleaning from game feedback & extra cleaning (3-4 letters)
+// skipped re dictionary, as v4 coming & will use that
 const wordsCommonSeedsV3 = [
   null,
   {
