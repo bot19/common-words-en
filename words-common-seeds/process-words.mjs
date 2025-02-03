@@ -1,4 +1,3 @@
-import { wordsFrequncyList } from "./imports/wordsFrequncyList.mjs";
 import { wordsAlanBeale } from "./imports/wordsAlanBeale.mjs";
 import { wordsBanned } from "./lists/wordsBanned.mjs";
 import { wordsWhitelist } from "./lists/wordsWhitelist.mjs";
@@ -6,8 +5,7 @@ import { writeFile } from "fs/promises";
 import { wordsEssentialEnglish } from "./imports/wordsEssentialEnglish.mjs";
 
 // combine word lists
-const wordsString =
-  wordsFrequncyList + "," + wordsAlanBeale + "," + wordsEssentialEnglish;
+const wordsString = wordsAlanBeale + "," + wordsEssentialEnglish;
 
 // make into array to sort
 const wordsArr = wordsString.split(",");
@@ -70,9 +68,10 @@ wordsByLength.forEach((wordsObject) => {
   const wordsSorted = wordsLowerCase.sort(new Intl.Collator().compare);
 
   // remove duplicates
-  const wordsUnique = [...new Set(wordsSorted)];
+  wordsObject.words = [...new Set(wordsSorted)];
 
-  wordsObject.words = wordsUnique.filter((word) => filterConditions(word));
+  // don't need anymore as source list cleaned of rubbish words
+  // wordsObject.words = wordsUnique.filter((word) => filterConditions(word));
 
   // get count after all the word processing
   wordsObject.count = wordsObject.words.length;
