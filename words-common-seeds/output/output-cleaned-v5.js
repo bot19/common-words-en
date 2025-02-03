@@ -1,17 +1,14 @@
-[
+const wordsCommonSeedsV5 = [
   null,
   {
-    "wordLength": 1,
-    "count": 2,
-    "words": [
-      "a",
-      "i"
-    ]
+    wordLength: 1,
+    count: 2,
+    words: ["a", "i"],
   },
   {
-    "wordLength": 2,
-    "count": 38,
-    "words": [
+    wordLength: 2,
+    count: 38,
+    words: [
       "ad",
       "ah",
       "am",
@@ -49,13 +46,13 @@
       "tv",
       "up",
       "us",
-      "we"
-    ]
+      "we",
+    ],
   },
   {
-    "wordLength": 3,
-    "count": 259,
-    "words": [
+    wordLength: 3,
+    count: 259,
+    words: [
       "act",
       "add",
       "age",
@@ -314,13 +311,13 @@
       "yet",
       "you",
       "zip",
-      "zoo"
-    ]
+      "zoo",
+    ],
   },
   {
-    "wordLength": 4,
-    "count": 724,
-    "words": [
+    wordLength: 4,
+    count: 724,
+    words: [
       "able",
       "ache",
       "acid",
@@ -1044,13 +1041,13 @@
       "yell",
       "your",
       "zero",
-      "zone"
-    ]
+      "zone",
+    ],
   },
   {
-    "wordLength": 5,
-    "count": 817,
-    "words": [
+    wordLength: 5,
+    count: 817,
+    words: [
       "about",
       "above",
       "abuse",
@@ -1867,13 +1864,13 @@
       "yield",
       "young",
       "yours",
-      "youth"
-    ]
+      "youth",
+    ],
   },
   {
-    "wordLength": 6,
-    "count": 878,
-    "words": [
+    wordLength: 6,
+    count: 878,
+    words: [
       "abroad",
       "absent",
       "absorb",
@@ -2751,13 +2748,13 @@
       "worker",
       "worthy",
       "writer",
-      "yellow"
-    ]
+      "yellow",
+    ],
   },
   {
-    "wordLength": 7,
-    "count": 854,
-    "words": [
+    wordLength: 7,
+    count: 854,
+    words: [
       "abandon",
       "ability",
       "abolish",
@@ -3611,13 +3608,13 @@
       "wounded",
       "writing",
       "written",
-      "wrongly"
-    ]
+      "wrongly",
+    ],
   },
   {
-    "wordLength": 8,
-    "count": 689,
-    "words": [
+    wordLength: 8,
+    count: 689,
+    words: [
       "abortion",
       "absolute",
       "abstract",
@@ -4306,13 +4303,13 @@
       "withdraw",
       "workshop",
       "worrying",
-      "yourself"
-    ]
+      "yourself",
+    ],
   },
   {
-    "wordLength": 9,
-    "count": 548,
-    "words": [
+    wordLength: 9,
+    count: 548,
+    words: [
       "abandoned",
       "abundance",
       "accompany",
@@ -4860,13 +4857,13 @@
       "workplace",
       "worldwide",
       "yesterday",
-      "youngster"
-    ]
+      "youngster",
+    ],
   },
   {
-    "wordLength": 10,
-    "count": 427,
-    "words": [
+    wordLength: 10,
+    count: 427,
+    words: [
       "absolutely",
       "accelerate",
       "acceptable",
@@ -5293,13 +5290,13 @@
       "whatsoever",
       "widespread",
       "withdrawal",
-      "worthwhile"
-    ]
+      "worthwhile",
+    ],
   },
   {
-    "wordLength": 11,
-    "count": 243,
-    "words": [
+    wordLength: 11,
+    count: 243,
+    words: [
       "accommodate",
       "accordingly",
       "accordingto",
@@ -5542,13 +5539,13 @@
       "unfortunate",
       "unimportant",
       "unnecessary",
-      "willingness"
-    ]
+      "willingness",
+    ],
   },
   {
-    "wordLength": 12,
-    "count": 120,
-    "words": [
+    wordLength: 12,
+    count: 120,
+    words: [
       "accidentally",
       "accumulation",
       "additionally",
@@ -5668,13 +5665,13 @@
       "uncontrolled",
       "unemployment",
       "unreasonable",
-      "unsuccessful"
-    ]
+      "unsuccessful",
+    ],
   },
   {
-    "wordLength": 13,
-    "count": 76,
-    "words": [
+    wordLength: 13,
+    count: 76,
+    words: [
       "accommodation",
       "administrator",
       "advertisement",
@@ -5750,13 +5747,13 @@
       "unfortunately",
       "unprecedented",
       "unpredictable",
-      "vulnerability"
-    ]
+      "vulnerability",
+    ],
   },
   {
-    "wordLength": 14,
-    "count": 26,
-    "words": [
+    wordLength: 14,
+    count: 26,
+    words: [
       "accommodations",
       "accomplishment",
       "accountability",
@@ -5782,39 +5779,33 @@
       "responsibility",
       "simultaneously",
       "transformation",
-      "transportation"
-    ]
+      "transportation",
+    ],
   },
   {
-    "wordLength": 15,
-    "count": 5,
-    "words": [
+    wordLength: 15,
+    count: 5,
+    words: [
       "congratulations",
       "decision-making",
       "environmentally",
       "extraordinarily",
-      "straightforward"
-    ]
+      "straightforward",
+    ],
   },
   {
-    "wordLength": 16,
-    "count": 1,
-    "words": [
-      "misunderstanding"
-    ]
+    wordLength: 16,
+    count: 1,
+    words: ["misunderstanding"],
   },
   {
-    "wordLength": 17,
-    "count": 1,
-    "words": [
-      "thought-provoking"
-    ]
+    wordLength: 17,
+    count: 1,
+    words: ["thought-provoking"],
   },
   {
-    "wordLength": 18,
-    "count": 1,
-    "words": [
-      "telecommunications"
-    ]
-  }
-]
+    wordLength: 18,
+    count: 1,
+    words: ["telecommunications"],
+  },
+];
