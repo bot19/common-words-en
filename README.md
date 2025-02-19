@@ -25,7 +25,7 @@ Now also includes an extra "dictionary" list, which encompasses the common words
 - ~~base common words "seeds" list is from: frequencylist.com~~
 - base essential words "seeds" list: wordlist.aspell.net/12dicts/ US-UK 4700 words list (only using UK words)
 - updated "seeds" list again with another 5000 essential word list
-- word length 3 words: 307 > 323 > 311 > 259
+- word length 3 words: 307 > 323 > 311 > 258
 - word length 4 words: 772 > 846 > 859 > 724
 - word length 5 words: 824 > 949 > 1005 > 817
 - word length 6 words: 791 > 983 > 1081 > 878
