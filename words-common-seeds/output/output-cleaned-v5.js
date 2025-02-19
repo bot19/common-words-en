@@ -51,7 +51,7 @@ const wordsCommonSeedsV5 = [
   },
   {
     wordLength: 3,
-    count: 259,
+    count: 258,
     words: [
       "act",
       "add",
@@ -199,7 +199,6 @@ const wordsCommonSeedsV5 = [
       "map",
       "may",
       "mix",
-      "mm:",
       "mob",
       "mrs",
       "mud",
