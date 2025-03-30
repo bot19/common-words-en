@@ -22,9 +22,16 @@ Now also includes an extra "dictionary" list, which encompasses the common words
 
 ## 📝 Notes
 
-- ~~base common words "seeds" list is from: frequencylist.com~~
-- base essential words "seeds" list: wordlist.aspell.net/12dicts/ US-UK 4700 words list (only using UK words)
-- updated "seeds" list again with another 5000 essential word list
+1. ~~base common words "seeds" list is from: frequencylist.com~~
+2. base essential words "seeds" list: wordlist.aspell.net/12dicts/ US-UK 4700 words list (only using UK words)
+3. updated "seeds" list again with another 5000 essential word list
+4. was bloated for quantity, but ran into word quality issues & now back to quality words only
+5. dbs cleaned of: . , ? '
+6. and: ! @ # $ % ^ & \* () \_ + = {} [] | \ : ; " <> /
+7. appropriate words with - (ie: film-maker)
+
+## 📝 Extra
+
 - word length 3 words: 307 > 323 > 311 > 258
 - word length 4 words: 772 > 846 > 859 > 724
 - word length 5 words: 824 > 949 > 1005 > 817
@@ -35,4 +42,3 @@ Now also includes an extra "dictionary" list, which encompasses the common words
 - word length 10 words: 186 > 338 > 468 > 427
 - word length 11 words: 96 > 187 > 270 > 243
 - total: 5439 words
-- was bloated for quantity, but ran into word quality issues & now back to quality words only
