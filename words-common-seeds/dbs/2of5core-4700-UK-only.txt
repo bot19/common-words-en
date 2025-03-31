@@ -1,4 +1,3 @@
-NOTE: filtered, only UK, 1 word only, use latest words & common sense
 a
 abandon
 abandoned
@@ -2332,7 +2331,6 @@ length
 less
 lesson
 let
-let's
 letter
 lettuce
 level
@@ -2740,7 +2738,6 @@ occupation
 occupy
 occur
 ocean
-o'clock
 October
 odd
 of
