@@ -23,11 +23,11 @@ Now also includes an extra "dictionary" list, which encompasses the common words
 ## 📝 Notes
 
 1. ~~base common words "seeds" list is from: frequencylist.com~~
-2. base essential words "seeds" list: wordlist.aspell.net/12dicts/ US-UK 4700 words list (only using UK words)
+2. base essential words "seeds" list: wordlist.aspell.net/12dicts/ US-UK 4700 words list (filtered: only UK, 1 word only, latest words & common sense)
 3. updated "seeds" list again with another 5000 essential word list
 4. was bloated for quantity, but ran into word quality issues & now back to quality words only
-5. dbs cleaned of: . , ? '
-6. and: ! @ # $ % ^ & \* () \_ + = {} [] | \ : ; " <> /
+5. dbs cleaned of: . , ' ’
+6. and: ! @ # $ % ^ & \* () \_ + = {} [] | \ : ; " <> / ?
 7. appropriate words with - (ie: film-maker)
 
 ## 📝 Extra
