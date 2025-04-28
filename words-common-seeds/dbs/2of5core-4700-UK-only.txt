@@ -742,7 +742,6 @@ collection
 collective
 college
 colon
-colonel
 colour
 coloured
 colourful
@@ -2201,10 +2200,8 @@ jazz
 jealous
 jeans
 jet
-Jew
 jewel
 jewellery
-Jewish
 job
 jogging
 join
