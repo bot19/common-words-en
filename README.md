@@ -42,3 +42,11 @@ Now also includes an extra "dictionary" list, which encompasses the common words
 - word length 10 words: 186 > 338 > 468 > 427
 - word length 11 words: 96 > 187 > 270 > 243
 - total: 5439 words
+
+## 🤖 AI audit
+
+Audit remove words: jew, owl, barn, deem, punk, sexy, swan, buddy, forth, idiot, noone, screw, yacht, jewish, nextto, sexual, stupid, wicket, panties, trustee, allright, knitting, sexuality, magistrate, provincial, accordingto, psychiatric.
+
+(removed because: if slang, jargon, sexual, offensive, or includes punctuation (except hyphen))
+
+Spell check remove/edit words: math, candy, fiber, noone, faucet, muslim, nextto, set-up (ADD setup), anymore, allright, gasoline, icecream, CHANGE minimize to minimise, CHANGE mobilise, railroad, sidewalk, CHANGE apologise, CHANGE emphasise, northwest, CHANGE organised, CHANGE organiser, CHANGE recognise, someplace, CHANGE stabilise, CHANGE summarise, flashlight, CHANGE specialise, accordingto.
